@@ -11,7 +11,7 @@ Playing with [Release Please GitHub Action](https://github.com/marketplace/actio
 3. Project CHANGELOG.md generated from Conventional Commits.
 4. Automatically updated release versions in arbitrary files.
 5. Project GitHub Release with Semantic Versioning and version Git tags.
-7. test
+7. test 
 ## Setup
 
 Release Please workflow is configured
