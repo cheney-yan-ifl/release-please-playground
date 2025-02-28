@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/cheney-yan-ifl/release-please-playground/compare/v1.2.0...v1.3.0) (2025-02-28)
+
+
+### Features
+
+* use full version Update build.gradle ([0f835f8](https://github.com/cheney-yan-ifl/release-please-playground/commit/0f835f8b79819170a7d8cad1bcd4c5dbca9a9c83))
+
 ## [1.2.0](https://github.com/cheney-yan-ifl/release-please-playground/compare/v1.1.0...v1.2.0) (2025-02-27)
 
 
