@@ -4,10 +4,10 @@ plugins {
 }
 
 // Version information (updated by Release Please)
-def versionMajor = 1 //x-release-please-major
-def versionMinor = 3 //x-release-please-minor
+def versionMajor = 2 //x-release-please-major
+def versionMinor = 0 //x-release-please-minor
 def versionPatch = 0 //x-release-please-patch
-def fullVersion = 1.3.0 //x-release-please-version
+def fullVersion = 2.0.0 //x-release-please-version
 
 android {
     namespace 'com.playground.app'

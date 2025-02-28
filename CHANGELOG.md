@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/cheney-yan-ifl/release-please-playground/compare/v1.3.0...v2.0.0) (2025-02-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* THIS would trigger a new major
+
+### Bug Fixes
+
+* Update README.md ([3797f0b](https://github.com/cheney-yan-ifl/release-please-playground/commit/3797f0b616c4ad475c2287970689a39ce3e06016))
+
 ## [1.3.0](https://github.com/cheney-yan-ifl/release-please-playground/compare/v1.2.0...v1.3.0) (2025-02-28)
 
 
